@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pradyumnweb
-- 👀 I’m interested in coding 
+- 👋 Hi, I’m @Pradyumn yadav
+- 👀 I’m interested in coding and web development 
 - 🌱 I’m currently learning web devlopment 
 - 💞️ I’m looking to collaborate on brands
 - 📫 How to reach me @pradyumn___07
